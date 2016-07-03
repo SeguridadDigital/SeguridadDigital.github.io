@@ -35,6 +35,7 @@ header h1, header h2 {
     text-align: justify;
     padding-top: 30px;
     margin: auto;
+    cursor: default;
 }
 .btn-default {
 	border: none;
