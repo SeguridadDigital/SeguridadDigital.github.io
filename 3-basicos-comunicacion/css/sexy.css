@@ -17,6 +17,24 @@ header h1 {
 header h1, header h2 {
 	font-weight: lighter;
 }
+p, header h1, header h2, #botones-idiomas, .navbar-brand {
+	cursor: default;
+}
+#botones-idiomas {
+	text-transform: capitalize;
+    color: rgba(255,255,255, 0.6);
+    display: block;
+    position: absolute;
+    right: 40px;
+    top: 5px;
+}
+#botones-idiomas a {
+    color: rgba(255,255,255, 0.6);
+}
+#botones-idiomas a:hover {
+    color: rgba(255,255,255, 0.9);
+    text-decoration: none;
+}
 .content {
 	background: rgba(254, 245, 243, 0.15);
 	padding: 40px 0;
@@ -35,7 +53,6 @@ header h1, header h2 {
     text-align: justify;
     padding-top: 30px;
     margin: auto;
-    cursor: default;
 }
 .btn-default {
 	border: none;

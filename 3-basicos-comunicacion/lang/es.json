@@ -1,0 +1,12 @@
+{
+    "txt-language"		: "Idioma",
+    "title" 			: "Comunicación Segura",
+    "subtitle" 			: "3 básicos",
+    "txt-tutanota" 		: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim non odio eget semper. Ut mollis auctor ante id bibendum. Vivamus quis ligula eget augue dignissim molestie. Cras neque diam, ullamcorper ut eros eu, eleifend fermentum nisl. Mauris a finibus risus. Praesent a convallis ipsum. Donec id porta augue, et sagittis ex. Quisque mollis magna justo, vitae aliquam ex fringilla sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+
+    "txt-tunnelbear"	: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim non odio eget semper. Ut mollis auctor ante id bibendum. Vivamus quis ligula eget augue dignissim molestie. Cras neque diam, ullamcorper ut eros eu, eleifend fermentum nisl. Mauris a finibus risus. Praesent a convallis ipsum. Donec id porta augue, et sagittis ex. Quisque mollis magna justo, vitae aliquam ex fringilla sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+
+    "txt-signal"		: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim non odio eget semper. Ut mollis auctor ante id bibendum. Vivamus quis ligula eget augue dignissim molestie. Cras neque diam, ullamcorper ut eros eu, eleifend fermentum nisl. Mauris a finibus risus. Praesent a convallis ipsum. Donec id porta augue, et sagittis ex. Quisque mollis magna justo, vitae aliquam ex fringilla sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+
+    "txt-general"		: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim non odio eget semper. Ut mollis auctor ante id bibendum. Vivamus quis ligula eget augue dignissim molestie. Cras neque diam, ullamcorper ut eros eu, eleifend fermentum nisl. Mauris a finibus risus. Praesent a convallis ipsum. Donec id porta augue, et sagittis ex. Quisque mollis magna justo, vitae aliquam ex fringilla sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+}
